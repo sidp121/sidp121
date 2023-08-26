@@ -1,29 +1,18 @@
-HEY 👋, I'm SACHIN SHARMA
-I'M Fullstack Developer | Java, Javascript, ReactJs, AngularJs, ReactNative, NodeJs, Ionic, MongoDB, JSP, Orcale, MySQL, HTML5, CSS, Bootstrap, WordPress.
+HEY 👋, I'm Siddharth Pandey
+I'M Wordpress Developer.
+🌱 Skills- MySQL, HTML5, CSS, Bootstrap, Figma to WordPress, XD to WordPress, PSD to WordPress.
 🔭 I’m currently working on Human interg.ai
 
 🌱 I’m currently learning React,node and PHP
 
-💬 Ask me about Java,javascript,html,css and many more !!
+💬 Ask me about MySQL, HTML5, CSS, Bootstrap, Figma to WordPress, XD to WordPress, PSD to WordPress and many more !!
 
-📫 How to reach me hellosharmasachin@gmail.com
-
-👀 Look My Website 🌎 https://connectwithsachin.000webhostapp.com/
+📫 How to reach me siddharth10121996@gmail.com
 
 ⚡ Fun fact I'm Professional Athlete
 
 Connect with me:
-sachinramsharma bebadsachin sachinsharma125
+E-mail: siddharth10121996@gmail.com
+Github: sid121
+Skype: siddharth10121996@gmail.com
 
-devninjasachin
-
-devninjasachin
-
-Languages and Tools:
-android angular angularjs aws azure backbonejs blender bootstrap c circleci cplusplus csharp css3 cypress d3js django docker electron express figma firebase framer gatsby git graphql html5 illustrator ionic java javascript jest karma kotlin kubernetes laravel mongodb mssql mysql nativescript nodejs oracle photoshop php postgresql python quasar react reactnative realm redux sass sketch sqlite svelte symfony tailwind typescript vuejs vuepress vuetify webpack xamarin xd zapier
-
-devninjasachin
-
- devninjasachin
-
-devninjasachin
