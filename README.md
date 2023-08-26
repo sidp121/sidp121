@@ -12,7 +12,7 @@ I'M Wordpress Developer.
 ⚡ Fun fact I'm Professional Athlete
 
 Connect with me:
-E-mail: siddharth10121996@gmail.com
-Github: sid121
+E-mail: siddharth10121996@gmail.com,
+Github: sid121,
 Skype: siddharth10121996@gmail.com
 
