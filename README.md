@@ -1,11 +1,11 @@
 HEY 👋, I'm Siddharth Pandey
 I'M Wordpress Developer.
-🌱 Skills- MySQL, HTML5, CSS, Bootstrap, Figma to WordPress, XD to WordPress, PSD to WordPress.
+🌱 Skills- WordPress, HTML, CSS, Bootstrap, Javascript, MySQL, PHP, Figma to WordPress, XD to WordPress, PSD to WordPress.
 🔭 I’m currently working on Human interg.ai
 
 🌱 I’m currently learning React,node and PHP
 
-💬 Ask me about MySQL, HTML5, CSS, Bootstrap, Figma to WordPress, XD to WordPress, PSD to WordPress and many more !!
+💬 Ask me about WordPress, PHP, MySQL, HTML5, CSS, Bootstrap, Figma to WordPress, XD to WordPress, PSD to WordPress and many more !!
 
 📫 How to reach me siddharth10121996@gmail.com
 
